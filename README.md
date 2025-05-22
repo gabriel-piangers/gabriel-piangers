@@ -1,14 +1,9 @@
 <h1 align="left">Gabriel Piangers</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">🖥️ IT student at IFSUL </p>
 
 ###
+<br>
+
 
 <h2 align="left">Code Stack</h2>
 
