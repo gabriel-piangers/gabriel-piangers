@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🖥️ IT student at IFSUL <br>📚 Currently learning node.js and react.js<br>🎯 Looking for an internship oportunity<br>🏐 Volleyball fan</p>
+<p align="left">🖥️ IT student at IFSUL </p>
 
 ###
 
