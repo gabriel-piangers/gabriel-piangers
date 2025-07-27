@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  Estudante de TI entusiasmado e desenvolvedor em formação, com sede de conhecimento. Atualmente, estou no último ano do curso <strong>Técnico em Informática integrado ao Ensino Médio no IFSUL</strong>, em Sapiranga, RS, e planejando seguir com a graduação em <strong>Ciência da Computação</strong>.
+  Estudante de TI entusiasmado e desenvolvedor em formação, com sede de conhecimento. Atualmente, estou no último ano do curso <strong>Técnico em Informática integrado ao Ensino Médio no IFSUL</strong>, em Sapiranga, RS.
 </p>
 
 <p align="left">
