@@ -61,12 +61,12 @@
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">🔐 Login-page</h3>
+      <h3 align="center">🏫 Mural de Vagas do IFSul </h3>
       <p align="center">
-        Uma página de login full stack com React.js no frontend e Node.js no backend e banco de dados PostgreSQL.
+        Plataforma para divulgação de oportunidades de estágio voltadas para os alunos do IFSul, desenvolvida utilizando React.js, Express e PostgreSQL.
       </p>
       <p align="center">
-        <a href="https://github.com/gabriel-piangers/Login-Page">
+        <a href="https://github.com/gabriel-piangers/IFSul-Estagios">
           <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
         </a>
       </p>
