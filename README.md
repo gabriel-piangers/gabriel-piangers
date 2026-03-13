@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  Estudante de TI entusiasmado e desenvolvedor em formação, com sede de conhecimento. Atualmente, estou no último ano do curso <strong>Técnico em Informática integrado ao Ensino Médio no IFSUL</strong>, em Sapiranga, RS.
+  Estudante de Ciência da Computação na UFRGS com grande interesse em desenvolvimento de software e em resolver problemas. Atualmente estou focado em desenvolver minhas habilidades na área para me tornar um profiossional completo.
 </p>
 
 <p align="left">
-  Minha jornada na programação tem sido impulsionada pela curiosidade e pelo desejo de transformar ideias em realidade. Tenho um forte interesse em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+  Minha jornada na programação tem sido impulsionada pela curiosidade e pelo desejo de transformar ideias em realidade. 
 </p>
 
 ---
